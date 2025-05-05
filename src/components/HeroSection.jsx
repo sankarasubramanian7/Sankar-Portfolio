@@ -11,7 +11,7 @@ export const HeroSection = () => {
         <div className="flex justify-center mb-6 ">
         <div className="absolute w-36 h-36 md:w-44 md:h-44 bg-primary/30 rounded-full blur-2xl animate-pulse z-0"></div>
           <img
-            src="./src/assets/Sankar07.jpg"
+            src="./src/assets/San.webp"
             alt="Sankara Subramanian"
             className="w-32 h-32 md:w-40 md:h-40 rounded-full object-cover border-4 border-primary shadow-lg 
             relative z-10 transition duration-300 hover:scale-110 hover:shadow-2xl"
