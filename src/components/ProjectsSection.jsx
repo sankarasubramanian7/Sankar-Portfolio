@@ -20,15 +20,15 @@ const projects = [
     demoUrl: "https://pallava-frontend.onrender.com/",
     githubUrl: "https://github.com/sankarasubramanian7/Pallava-Hospital-Management",
   },
-  {
+   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "Xavier's University Website",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#",
+      "Responsive university website UI with dynamic content, course catalog, and event listings. User-friendly university site UI with seamless navigation.",
+    image: "/projects/xu.png",
+    tags: ["React", "CSS", "Javascript"],
+    demoUrl: "https://university-react-eight.vercel.app/",
+    githubUrl: "https://github.com/sankarasubramanian7/University-React",
   },
 ];
 
